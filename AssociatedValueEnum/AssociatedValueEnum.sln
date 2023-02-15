@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssociatedValueEnum", "AssociatedValueEnum.csproj", "{6430F8AD-50CE-4732-B8C8-C8467CFBE3B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssociatedValueEnum.Test", "..\AssociatedValueEnum.Test\AssociatedValueEnum.Test.csproj", "{CFC550BD-0E9B-4264-BC7B-866D14F38885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6430F8AD-50CE-4732-B8C8-C8467CFBE3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6430F8AD-50CE-4732-B8C8-C8467CFBE3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6430F8AD-50CE-4732-B8C8-C8467CFBE3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6430F8AD-50CE-4732-B8C8-C8467CFBE3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC550BD-0E9B-4264-BC7B-866D14F38885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC550BD-0E9B-4264-BC7B-866D14F38885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC550BD-0E9B-4264-BC7B-866D14F38885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC550BD-0E9B-4264-BC7B-866D14F38885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {523214B0-30FC-41E0-BD03-94B89B26012A}
+	EndGlobalSection
+EndGlobal
