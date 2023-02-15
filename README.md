@@ -71,6 +71,17 @@ You can use the emulated enum in a switch statement to perform different actions
 
 This example demonstrates how to emulate Swift's Associated Value Enums in C# using a combination of interfaces and structs. It provides an elegant solution for working with enums with associated values in C#.
 
+## Contributing
+
+I welcome contributions and suggestions for improvements. If want to propose a new feature, please open an issue or submit a pull request.
+
+## Authors
+
+-   **Denis Murphy**
+
+## License
+This code is licensed under the MIT License.
+
 ## References
 
  - [Swift Documentation: Enumerations - Associated
